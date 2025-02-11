@@ -1,0 +1,27 @@
+.cards-main {
+  gap: 40px 60px;
+  flex-flow: row wrap;
+  padding: 20px 20px;
+  list-style: none;
+}
+
+.cards-main__item {
+  width: clamp(530px, 40vw, 586px);
+  height: auto;
+}
+
+@media (max-width: 1160px) {
+  .cards-main {
+    justify-content: center;
+  }
+
+  .cards-main__item {
+    width: 70%;
+  }
+}
+
+@media (max-width: 768px) {
+  .cards-main__item {
+    width: 90%;
+  }
+}
