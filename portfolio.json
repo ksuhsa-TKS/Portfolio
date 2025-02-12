@@ -19,6 +19,7 @@
     "title": "CRM",
     "descr": "Данный сайт создан для внесения данных клиентов в реестр с возможностью редактирования или удаление клиента. Таблицу клиентов можно сортировать по id, ФИО, дате создания или изменеия. Изначально список сортирован по id. Стэк JS, CSS.",
     "link": "/crm",
+    "git": "https://github.com/ksuhsa-TKS/CRM",
     "img": [
       "https://sun9-53.userapi.com/impg/C-xnpswYWgmXKze6IEXelbFx4TwBGNO5zVeNiw/vjPqDkl8tl8.jpg?size=1023x1023&quality=95&sign=7646faf3634fa0f67a1daca6349f68bd&type=album",
       "https://sun9-20.userapi.com/impg/Bykv5BmL6D3XY1YdIDdIhev6Nz2UfhBjG2V2VA/klEap3XYxYs.jpg?size=1019x1021&quality=95&sign=c120882931d6703a4ced0bc21f704c6f&type=album",
@@ -34,6 +35,7 @@
     "title": "W-Wave Radio",
     "descr": "Адаптивный одностроничный лейдинг радиостанции. Стэк HTML, CSS.",
     "link": "/w-wave",
+    "git": "https://github.com/ksuhsa-TKS/W-Wave_Radio",
     "img": [
       "https://sun9-26.userapi.com/impg/vTULfpMEO0HGMizive34PqWDm6CgnJ-xWDsoJA/n0WZFdx9zak.jpg?size=1079x1080&quality=95&sign=61c28c16a2e436bf5094c233732362d3&type=album",
       "https://sun9-80.userapi.com/impg/0vVKvP7xvhV6F1mlSPs_ILEKoJJLNw8iHtU_fQ/CVGCFm_hPmk.jpg?size=1269x1263&quality=95&sign=d74f37a68e4bb0e88799ec9ebcfac31a&type=album",
@@ -50,6 +52,7 @@
     "title": "Evclid",
     "descr": "Адаптивный одностроничный лейдинг строительной компании. Стэк HTML, CSS.",
     "link": "/evclid",
+    "git": "https://github.com/ksuhsa-TKS/Evclid",
     "img": [
       "https://sun9-48.userapi.com/impg/vh032Cz6pboswxWmvZz83gIBbHq4oSBkjQ0d1A/65aMaT92mY8.jpg?size=1178x1177&quality=95&sign=cab2c91fa674b612838e74b7f7855118&type=album",
       "https://sun9-4.userapi.com/impg/8hJUVs2o-_ZL0C2_Yjl73v5JeEYBH-LqFKlFkg/ooWihXuRMMc.jpg?size=1176x1173&quality=95&sign=ac05dcfcd0f3146edeb1d8ff4532336f&type=album",
@@ -63,6 +66,7 @@
     "title": "Lagoona",
     "descr": "Одностроничный лейдинг сети отелей. Первый сделаный мной макет, не адоптивный. Стэк HTML, CSS.",
     "link": "/lagoona",
+    "git": "https://github.com/ksuhsa-TKS/Lagoona",
     "img": [
       "https://sun9-63.userapi.com/impg/HZxpMYwSXVI3lQN0RBIJVULTKEXPt4Be-exCnw/m4Y9JmrB8ZM.jpg?size=1273x1273&quality=95&sign=d3aa5ab4e73f02d03434bf58d051e4ce&type=album",
       "https://sun9-4.userapi.com/impg/TIrtpTUo5cBHMadAsd1pnE4ILb-QTAVTtd2I5Q/ZA9JfL9ye8A.jpg?size=1270x1270&quality=95&sign=69f7091842bf87bd467e6e6998a1c20f&type=album",
