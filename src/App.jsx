@@ -24,8 +24,7 @@ function App() {
           <span className="flex-main header-main__wrap">
             <Link to='/' className="header-main__link">Портфолио</Link>
             <a className='header-main__link header-main__link--min' href="https://github.com/ksuhsa-TKS" target='_blank'>GitHab</a>
-            {/* <a href="src/assets/Трахачева Ксения _ Резюме.docx" download target='_blank'>Резюме</a> */}
-            <a className='header-main__link header-main__link--min' href="https://docs.google.com/document/d/1F8iEedeIHyYR8IO-mQ2l2vW9S4WiShhk/edit" download='Резюме Трахачева Ксения' target='_blank'>Резюме</a>
+            <a href='../public/assets/main/ТрахачеваКсения_Резюме.pdf' download='ТрахачеваКсения_Резюме.pdf'>Резюме</a>
           </span>
 
           <Nav />
