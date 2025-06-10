@@ -1,0 +1,67 @@
+@font-face {
+  font-family: 'Muller';
+  src: local('MullerBold'), url('./fonts/MullerBold.woff2'), url('./fonts/MullerBold.woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Muller';
+  src: local('MullerMedium'), url('./fonts/MullerMedium.woff2'), url('./fonts/MullerMedium.woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Muller';
+  src: local('MullerRegular'), url('./fonts/MullerRegular.woff2'), url('./fonts/MullerRegular.woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Muller';
+  src: local('MullerRegularItalic'), url('./fonts/MullerRegularItalic.woff2'),
+    url('./fonts/MullerRegularItalic.woff');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Muller';
+  src: local('MullerLight'), url('./fonts/MullerLight.woff2'), url('./fonts/MullerLight.woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Muller';
+  src: local('MullerLightItalic'), url('./fonts/MullerLightItalic.woff2'),
+    url('./fonts/MullerLightItalic.woff');
+  font-weight: 300;
+  font-style: italic;
+  font-display: swap;
+}
+
+:root {
+  --color-white: #fff;
+  --color-athens-gray: #e6e8ec;
+  --color-gray-chateau: #a1a6b4;
+  --color-charade: #292e39;
+  --color-mirage: #121723;
+  --color-buff: #f0d288;
+  --color-tussock: #bb973e;
+  --color-mischka: #d2d5dd;
+  --color-melrose: #aa9dfa;
+  --color-electric-violet: #6d31ee;
+  --color-daisy-bush: #4f28a5;
+  --color-thunderbrid: #d52b1e;
+  --border-big: 77px;
+  --border: 40px;
+  --indent: 30px;
+}

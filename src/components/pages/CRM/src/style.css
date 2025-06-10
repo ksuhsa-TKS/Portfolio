@@ -1,0 +1,84 @@
+@font-face {
+  font-family: 'Open Sans';
+  src: local('OpenSans-Regular'), url('./fonts/OpenSans-Regular.woff2'), url('./fonts/OpenSans-Regular.woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: local('OpenSans-SemiBold'), url('./fonts/OpenSans-SemiBold.woff2'),
+    url('./fonts/OpenSans-SemiBold.woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: local('OpenSans-Bold'), url('./fonts/OpenSans-Bold.woff2'), url('./fonts/OpenSans-Bold.woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  --red: rgb(240, 106, 77);
+  --red-lighter: rgb(243, 140, 117);
+  --red-darker: rgb(204, 86, 59);
+  --firm: rgb(152, 115, 255);
+  --firm-lighter: rgb(187, 162, 255);
+  --firm-darker: rgb(114, 81, 206);
+  --white: rgb(255, 255, 255);
+  --grey: rgb(229, 229, 229);
+  --grey-lilac: rgb(200, 197, 209);
+  --grey-lilac-transparent: rgb(229, 229, 229, 0.3);
+  --grey-lilac-opacity: rgb(200, 197, 209, 0.5);
+  --grey-filled: rgb(231, 229, 235);
+  --txt-grey: rgb(176, 176, 176);
+  --black: rgb(51, 51, 51);
+  --black-transparent: rgb(51, 51, 51, 0.2);
+  --black-opacity: rgb(51, 51, 51, 0.6);
+  --padding-table: 0 20px;
+}
+
+@media (max-width: 940px) {
+  :root {
+    --padding-table: 0 10px;
+  }
+}
+
+/* animaytion */
+
+@keyframes crm-loading {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes crm-open-window-fon {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes crm-open-window {
+  0% {
+    opacity: 0;
+    transform: translateY(50vh) scale(0);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}

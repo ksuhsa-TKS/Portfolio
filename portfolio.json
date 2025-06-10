@@ -1,77 +1,183 @@
-[
-  {
-    "title": "Collection Mystery",
-    "descr": "Коллекция тайн - это сайт для составления собственной коллекции настольных игр, с возможностью добавления, изменения, удаления и поиска/фильтрации по всем карточкам. Внесенные данные сохраняются в LocalStorage. Это мой первый полностью самостоятельный проект (макет-дизайн, верстка). Стэк React.js, Vite, MobX, CSS.",
-    "link": "/collection-mystery",
-    "git": "https://github.com/ksuhsa-TKS/Collection_mystery",
-    "img": [
-      "https://sun9-49.userapi.com/impg/JWtBoWipqW2Cp8RAcjTgJFZV2XbBAlowfgj55w/vEfuj6X2FMM.jpg?size=1184x1179&quality=95&sign=66c3944948a2ffe3889308fcd56bdb9e&type=album",
-      "https://sun9-48.userapi.com/impg/omw_3KcH-JzpaegN2897FbdB3-_QrGOO-iXIOA/JZQ5VkmUs-A.jpg?size=1178x1172&quality=95&sign=fe19005d48ea41f1410aaf26a89d5e76&type=album",
-      "https://sun9-43.userapi.com/impg/TGOM3DJ5a_9NWfZAeLQsMd9W8pmLMeKnfZYw1A/Ji4U1uSyOGA.jpg?size=1076x1080&quality=95&sign=815708a1bb22463f30f56b1c4e4ca1d7&type=album",
-      "https://sun9-63.userapi.com/impg/6GjpnKjn4fnzuQdlatA7Niu0sV4ICNTFYB8jdA/uiPgE43Y9Ms.jpg?size=1079x1080&quality=95&sign=0b24f1e5ed0b03db618648abea05ec0e&type=album",
-      "https://sun9-11.userapi.com/impg/-GucQl_fpIDPODNaVQKhYJkGfZovw7OyPy70hA/Dh7XlDFTZwU.jpg?size=412x916&quality=95&sign=008e1c9e3e2288c81dfd60eddc945353&type=album",
-      "https://sun9-30.userapi.com/impg/EVVJu9sVhLU_xPOD110L6x9Pxpv5IfBnIccz-g/d7o9VcUEn0U.jpg?size=412x912&quality=95&sign=304da3578f41e30c6889603e569701e9&type=album",
-      "https://sun9-61.userapi.com/impg/k0Rhwmnzuc0O377XAYBMzLewjubQH_xYej2xGQ/6ugkrTaxzrM.jpg?size=413x916&quality=95&sign=7570889f850c56c9686c8fabc4e12853&type=album",
-      "https://sun9-79.userapi.com/impg/nw-HgdCP59r3qt9UTwiwHlD5zT_KN4HdMuVr0w/bFSuiJo5JsM.jpg?size=413x911&quality=95&sign=3d1788aeefb9ec646d305248c7c57306&type=album"
-    ]
-  },
-  {
-    "title": "CRM",
-    "descr": "Данный сайт создан для внесения данных клиентов в реестр с возможностью редактирования или удаление клиента. Таблицу клиентов можно сортировать по id, ФИО, дате создания или изменеия. Изначально список сортирован по id. Стэк JS, CSS.",
-    "link": "/crm",
-    "git": "https://github.com/ksuhsa-TKS/CRM",
-    "img": [
-      "https://sun9-53.userapi.com/impg/C-xnpswYWgmXKze6IEXelbFx4TwBGNO5zVeNiw/vjPqDkl8tl8.jpg?size=1023x1023&quality=95&sign=7646faf3634fa0f67a1daca6349f68bd&type=album",
-      "https://sun9-20.userapi.com/impg/Bykv5BmL6D3XY1YdIDdIhev6Nz2UfhBjG2V2VA/klEap3XYxYs.jpg?size=1019x1021&quality=95&sign=c120882931d6703a4ced0bc21f704c6f&type=album",
-      "https://sun9-4.userapi.com/impg/9F7iJVAdsruVTvjOFLEcs5fVJZjPeNSnMHdkcA/Fm6FjAweWp0.jpg?size=1022x1022&quality=95&sign=b3f02ebd350cbc92c0fe80699f189293&type=album",
-      "https://sun9-58.userapi.com/impg/JLkBn1wWz_b4ZlZSNLg0AGbAqdaAY3Fa9Q84Ew/DU7Jyr3pzHo.jpg?size=1019x1009&quality=95&sign=bb7e01e802fbe9381fe6847bb162b8a9&type=album",
-      "https://sun9-24.userapi.com/impg/AKT1ggwpm8ZMjJ2L5Ded1tUw-OeRx5Tl6TTktw/CE0rY4S_jIU.jpg?size=410x912&quality=95&sign=ef0aaec337bf592466f3527fe5d6ed83&type=album",
-      "https://sun9-73.userapi.com/impg/_vl4G-lfuNddmCgi0il9tdgrWvSeHsD7OFu-RQ/s-ojibgseOE.jpg?size=409x911&quality=95&sign=4678a1a9991e8b850abaab44b5cd5ea0&type=album",
-      "https://sun9-77.userapi.com/impg/3VWlgqdRG3eQ2lEp8LbWn0YInJtVepWrBZc9kw/LqA1GzIEXyE.jpg?size=408x909&quality=95&sign=5afc262b2305f85e546026a1df66bdbc&type=album",
-      "https://sun9-70.userapi.com/impg/iq5pWNzjs6FUnpB81X47DcYmemY8_AaJ7NzqqA/Cz-kNa7V1ac.jpg?size=408x911&quality=95&sign=8abe70f923a01c4c0ea0247aaaba4a6d&type=album"
-    ]
-  },
-  {
-    "title": "W-Wave Radio",
-    "descr": "Адаптивный одностроничный лейдинг радиостанции. Стэк HTML, CSS.",
-    "link": "/w-wave",
-    "git": "https://github.com/ksuhsa-TKS/W-Wave_Radio",
-    "img": [
-      "https://sun9-26.userapi.com/impg/vTULfpMEO0HGMizive34PqWDm6CgnJ-xWDsoJA/n0WZFdx9zak.jpg?size=1079x1080&quality=95&sign=61c28c16a2e436bf5094c233732362d3&type=album",
-      "https://sun9-80.userapi.com/impg/0vVKvP7xvhV6F1mlSPs_ILEKoJJLNw8iHtU_fQ/CVGCFm_hPmk.jpg?size=1269x1263&quality=95&sign=d74f37a68e4bb0e88799ec9ebcfac31a&type=album",
-      "https://sun9-50.userapi.com/impg/TJvj-XOwn74RaAl_1JLdYgFxSMqryHHrpLT8Uw/kF5uDh2eJCA.jpg?size=1269x1265&quality=95&sign=7daf80aa6a35937e00be030f0b37fa6f&type=album",
-      "https://sun9-6.userapi.com/impg/ZwvlLL4Y22FcDOuyoHQR3tJ8w0Z74Z5hIHPfVw/Xm4ZKmm0bpI.jpg?size=1268x1265&quality=95&sign=928afdb6749a0e43e63c86f745eb5fc5&type=album",
-      "https://sun9-9.userapi.com/impg/3NCXnPx_tQfPLxtfleBlvtZHJIy2zD4qOHw4ZA/pXwFf7GJ_B0.jpg?size=410x911&quality=95&sign=cd76020076ca9a871b616b725408b43b&type=album",
-      "https://sun9-60.userapi.com/impg/ZtDxUG3_IYkK7koJeKjoeZW8jQ0SEEKclpJo4A/yCAn0oIcfow.jpg?size=410x908&quality=95&sign=6a1908e800fef9ccad3f5fe1ec32819b&type=album",
-      "https://sun9-60.userapi.com/impg/uVsrFXkk-svlOY2KAvNXAhmmXDRBymJcD9ByCg/m80pp7sRIBU.jpg?size=409x913&quality=95&sign=8c3566dd266cfcaf3abb337ffe7ca2c9&type=album",
-      "https://sun9-30.userapi.com/impg/NcGJYBg5orEXC9TguNU7MXcz-aqGtUEXW5QR_Q/LgAxgzLGoSE.jpg?size=413x912&quality=95&sign=427e6cacf9961997dd40781d4b48ccd0&type=album",
-      "https://sun9-9.userapi.com/impg/8YRgL4zxSgQ42Gl0KvFBByHhjdWX08mOpk2OXA/hSP80ddLPFM.jpg?size=410x911&quality=95&sign=03eacfa1bca4f743060833433be008c9&type=album"
-    ]
-  },
-  {
-    "title": "Evclid",
-    "descr": "Адаптивный одностроничный лейдинг строительной компании. Стэк HTML, CSS.",
-    "link": "/evclid",
-    "git": "https://github.com/ksuhsa-TKS/Evclid",
-    "img": [
-      "https://sun9-48.userapi.com/impg/vh032Cz6pboswxWmvZz83gIBbHq4oSBkjQ0d1A/65aMaT92mY8.jpg?size=1178x1177&quality=95&sign=cab2c91fa674b612838e74b7f7855118&type=album",
-      "https://sun9-4.userapi.com/impg/8hJUVs2o-_ZL0C2_Yjl73v5JeEYBH-LqFKlFkg/ooWihXuRMMc.jpg?size=1176x1173&quality=95&sign=ac05dcfcd0f3146edeb1d8ff4532336f&type=album",
-      "https://sun9-8.userapi.com/impg/AQInEYzWwRo5meeaHb-25vVomAUEvtEDNMmD8w/X_LnnhRo9C4.jpg?size=1177x1173&quality=95&sign=64cec8fbb4621512194d8101dffd15c1&type=album",
-      "https://sun9-78.userapi.com/impg/fUu9Ph5xXWHQmPNoQffylVaHBTAM_17lmbq4Vw/YEr_TmEWNjE.jpg?size=408x910&quality=95&sign=f9e32f853f85dd3236f80e76ba665d7c&type=album",
-      "https://sun9-19.userapi.com/impg/lbpW7Upt7NqjcaonAjUW1IPYi2M4G-vzFn--dg/8RGxlTLk60Q.jpg?size=408x912&quality=95&sign=148c53485754f1dce6a66d3beb270b44&type=album",
-      "https://sun9-80.userapi.com/impg/T98Jps5JXtUW_8FKb5ftmqqb7m7H_XvbIEoO7g/geh73gyVpkc.jpg?size=409x910&quality=95&sign=bf212a186d14e3f63614f84022d77ad4&type=album"
-    ]
-  },
-  {
-    "title": "Lagoona",
-    "descr": "Одностроничный лейдинг сети отелей. Первый сделаный мной макет, не адоптивный. Стэк HTML, CSS.",
-    "link": "/lagoona",
-    "git": "https://github.com/ksuhsa-TKS/Lagoona",
-    "img": [
-      "https://sun9-63.userapi.com/impg/HZxpMYwSXVI3lQN0RBIJVULTKEXPt4Be-exCnw/m4Y9JmrB8ZM.jpg?size=1273x1273&quality=95&sign=d3aa5ab4e73f02d03434bf58d051e4ce&type=album",
-      "https://sun9-4.userapi.com/impg/TIrtpTUo5cBHMadAsd1pnE4ILb-QTAVTtd2I5Q/ZA9JfL9ye8A.jpg?size=1270x1270&quality=95&sign=69f7091842bf87bd467e6e6998a1c20f&type=album",
-      "https://sun9-65.userapi.com/impg/SUJ1c_zFzmNvLP2hdadWdRKnOsXebQXXU6O5FA/TBwtTS67z8U.jpg?size=1268x1267&quality=95&sign=63cb96dce64ca17f892e13fbaee576e8&type=album",
-      "https://sun9-44.userapi.com/impg/EPiottLhVEIPMfbe849ccV07tmiotpZd4wj_Pw/ZIf6YLqag0Q.jpg?size=1077x1080&quality=95&sign=eccb2794b1a96b6b9b711748424c76d1&type=album"
-    ]
-  }
-]
+{
+  "projects": [
+    {
+      "title": "Коллекция тайн",
+      "link": "/collection-mystery",
+      "git": "https://github.com/ksuhsa-TKS/Collection_mystery",
+      "descr": "Мой личный пет-проект, разработанный с нуля без макета для учета коллекции настольных игр.",
+      "realized": [
+        "Адаптивный интерфейс (Desktop-first, CSS Flexbox)",
+        "Система хранения данных в LocalStorage (в процессе: переход на REST API)",
+        "Фильтрация, поиск и сортировка карточек игр",
+        "Форма создания/редактирования на React Hook Form",
+        "Оптимизация производительности через Lazy Loading",
+        "Управление состояниями с MobX"
+      ],
+      "development": "Добавление React Router для навигации.",
+      "feature": [],
+      "stek": ["React.js", "Vite", "MobX", "CSS"],
+      "imgDesktop": "assets/main/imgProjects/collection-desktop.webp",
+      "imgTablet": "assets/main/imgProjects/collection-tablet.webp",
+      "imgMobile": "assets/main/imgProjects/collection-mobile.webp"
+    },
+    {
+      "title": "skb.",
+      "link": "/crm",
+      "git": "https://github.com/ksuhsa-TKS/CRM",
+      "descr": "Проект по созданию самописный CRM системы.",
+      "realized": [
+        "Адаптивный интерфейс (Desktop-first, CSS Flexbox)",
+        "Модальное окно для работы с клиентами + отдельный вывод контактов",
+        "Динамическая загрузка данных через REST API (LocalStorage в демо)",
+        "Генерация ссылки с ID клиента для быстрого копирования",
+        "Чистый JavaScript (работа с DOM)",
+        "Интерактивные элементы с CSS-анимациями"
+      ],
+      "development": "",
+      "feature": ["PixelPerfect", "БЭМ"],
+      "stek": ["JavaScript", "CSS", "Figma"],
+      "imgDesktop": "assets/main/imgProjects/skb-desktop.webp",
+      "imgTablet": "assets/main/imgProjects/skb-tablet.webp",
+      "imgMobile": "assets/main/imgProjects/skb-mobile.webp"
+    },
+    {
+      "title": "W-Wave",
+      "link": "/w-wave",
+      "git": "https://github.com/ksuhsa-TKS/W-Wave_Radio",
+      "descr": "Адаптивный лэндинг для радиостанции.",
+      "realized": [
+        "Адаптивный интерфейс (Desktop-first, Flexbox + media queries)",
+        "Верстка по макету из Figma с пиксельной точностью",
+        "Микроанимации интерфейса",
+        "Оптимизированная загрузка (WebP, сжатие)",
+        "Кроссбраузерная поддержка + валидация W3C"
+      ],
+      "development": "",
+      "feature": ["PixelPerfect", "БЭМ"],
+      "stek": ["HTML", "CSS", "Figma, Pixso"],
+      "imgDesktop": "assets/main/imgProjects/w-wave-desktop.webp",
+      "imgTablet": "assets/main/imgProjects/w-wave-tablet.webp",
+      "imgMobile": "assets/main/imgProjects/w-wave-mobile.webp"
+    },
+    {
+      "title": "Евклид",
+      "link": "/evclid",
+      "git": "https://github.com/ksuhsa-TKS/Evclid",
+      "descr": "Адаптивный лэндинг для строительной компании.",
+      "realized": [
+        "Адаптивный интерфейс (Desktop-first, Flexbox + media queries) ",
+        "Микроанимации интерфейса",
+        "Оптимизация под Lighthouse (около 100 баллов)",
+        "Оптимизированная загрузка (WebP, сжатие)"
+      ],
+      "development": "",
+      "feature": ["PixelPerfect", "БЭМ"],
+      "stek": ["HTML", "CSS", "Figma"],
+      "imgDesktop": "assets/main/imgProjects/evclid-desktop.webp",
+      "imgTablet": "assets/main/imgProjects/evclid-tablet.webp",
+      "imgMobile": "assets/main/imgProjects/evclid-mobile.webp"
+    },
+    {
+      "title": "Lagoona",
+      "link": "/lagoona",
+      "git": "https://github.com/ksuhsa-TKS/Lagoona",
+      "descr": "Адаптивный лэндинг для сети отелей.",
+      "realized": [
+        "Семантическая верстка",
+        "Кроссбраузерная поддержка + валидация W3C",
+        "Интерактивные UI-элементы",
+        "Работа с ограничением: макет только для десктопа"
+      ],
+      "development": "",
+      "feature": ["Макет только для десктопа (Desktop-only)"],
+      "stek": ["HTML", "CSS", "Figma"],
+      "imgDesktop": "assets/main/imgProjects/lagoona-desktop.webp",
+      "imgTablet": "assets/main/imgProjects/lagoona-tablet.webp",
+      "imgMobile": "assets/main/imgProjects/lagoona-mobile.webp"
+    }
+  ],
+  "stek": [
+    {
+      "title": "HTML",
+      "descr": "Базовая разметка веб-страниц. Стандарт для структурирования контента, работает во всех браузерах. Использую во всех проектах — от лендингов до SPA.",
+      "img": "assets/main/programIcons/html.svg"
+    },
+    {
+      "title": "CSS",
+      "descr": "Стилизация и адаптивный дизайн. Гибкость (Flexbox, анимации) и полный контроль над внешним видом. Неотъемлемая часть верстки.",
+      "img": "assets/main/programIcons/css.svg"
+    },
+    {
+      "title": "JavaScript",
+      "descr": "Интерактивность и логика на стороне клиента. Универсальный язык с поддержкой асинхронности и огромной экосистемой (npm). Основной инструмент для динамики.",
+      "img": "assets/main/programIcons/js.svg"
+    },
+    {
+      "title": "React.js",
+      "descr": "Библиотека для построения компонентных интерфейсов. Виртуальный DOM, reusable-компоненты и высокая производительность. Выбор для SPA и сложных UI.",
+      "img": "assets/main/programIcons/react.svg"
+    },
+    {
+      "title": "MobX",
+      "descr": "Управление состоянием приложения. Простота и реактивность через observable-модель. Альтернатива Redux с меньшим количеством шаблонного кода.",
+      "img": "assets/main/programIcons/mobx.svg"
+    },
+    {
+      "title": "Vite",
+      "descr": "Современный сборщик для фронтенда. Мгновенная скорость разработки (ESM + Rollup) и встроенный HMR.",
+      "img": "assets/main/programIcons/vite.svg"
+    },
+    {
+      "title": "Figma",
+      "descr": "Дизайн интерфейсов и прототипирование. Онлайн-коллаборация, компонентный подход и экспорт стилей. Использую перед версткой.",
+      "img": "assets/main/programIcons/figma.svg"
+    },
+    {
+      "title": "Git",
+      "descr": "Система контроля версий. Возможность ветвления, история изменений и интеграция с GitHub/GitLab. Обязателен даже в solo-проектах.",
+      "img": "assets/main/programIcons/git.svg"
+    }
+  ],
+  "learning": [
+    {
+      "title": "styled-components",
+      "descr": "Библиотека для CSS-in-JS. Позволяет писать стили прямо в JavaScript-коде, используя компонентный подход. Особенно интересна для:",
+      "reasons": [
+        "Изоляции стилей в React-приложениях",
+        "Динамического изменения CSS через пропсы",
+        "Упрощения поддержки сложных дизайн-систем"
+      ],
+      "why": [
+        "Уменьшает количество файлов в проекте (нет отдельных .css)",
+        "Делает стили более предсказуемыми (no class name collisions)"
+      ],
+      "compatibility": "styled-components + React → Более удобное управление стилями в компонентах",
+      "img": "assets/main/programIcons/styled.svg"
+    },
+    {
+      "title": "Ant Design",
+      "descr": "UI-библиотека для React с готовыми компонентами (таблицы, формы, модалки). Привлекает:",
+      "reasons": [
+        "Готовыми профессиональными решениями для админ-панелей",
+        "Консистентным дизайном из коробки",
+        "Широкой кастомизацией"
+      ],
+      "why": [
+        "Сокращает время разработки стандартных UI-элементов",
+        "Позволяет сосредоточиться на логике, а не на «изобретению велосипедов»"
+      ],
+      "compatibility": "Ant Design + MobX → Быстрое создание комплексных интерфейсов с состоянием",
+      "img": "assets/main/programIcons/ant.svg"
+    }
+  ],
+  "imageBackground": [
+    "assets/main/imgBack/image-back-1.webp",
+    "assets/main/imgBack/image-back-2.webp",
+    "assets/main/imgBack/image-back-3.webp",
+    "assets/main/imgBack/image-back-4.webp",
+    "assets/main/imgBack/image-back-5.webp",
+    "assets/main/imgBack/image-back-6.webp",
+    "assets/main/imgBack/image-back-7.webp",
+    "assets/main/imgBack/image-back-8.webp"
+  ]
+}
