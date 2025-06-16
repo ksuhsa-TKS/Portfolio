@@ -28,7 +28,7 @@ const SupportInfo = () => {
           <GithubOutlined />
           GitHab
         </LinkContacts>
-        <LinkContacts href="https://hh.ru/resume/65f55edfff082ca82e0039ed1f54785252626b" target="_blank">
+        <LinkContacts href="assets/main/Трахачева Ксения Резюме.pdf" target="_blank">
           <BookOutlined />
           Резюме
         </LinkContacts>

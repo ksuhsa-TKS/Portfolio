@@ -51,9 +51,15 @@ h4 {
   display: flex;
   flex-direction: column;
   width: 100%;
-  height: 100vh;
+  min-height: 100vh;
+  /* height: 100vh; */
+  min-height: -webkit-fill-available;
   scroll-behavior: smooth;
   overflow: hidden auto;
+}
+
+#root > div > div {
+  min-height: 100vh;
 }
 
 #root::selection {
@@ -62,10 +68,6 @@ h4 {
 
 /* media */
 @media (max-width: 768px) {
-  #root {
-    height: auto;
-  }
-
   #root > div {
     margin-bottom: 46px;
   }

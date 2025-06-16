@@ -89,7 +89,7 @@ export const items = [
       {
         key: 'Резюме',
         label: (
-          <LinkContact href="https://hh.ru/resume/65f55edfff082ca82e0039ed1f54785252626b" target="_blank">
+          <LinkContact href="assets/main/Трахачева Ксения Резюме.pdf" target="_blank">
             Резюме
           </LinkContact>
         ),
